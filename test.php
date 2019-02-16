@@ -7,7 +7,7 @@ $contact=  array(
 					   'Tel'=>'773168640',
 					   'Email'=>'abdoukfall9@gmail.com',
 					   'N° Carte Etudiant'=>'201708DEE',
-					   'Profession'=>'Etudiant'
+					   'Profession'=>'Etudiant',
 					   'Date de naissaance'=>'26 Janvier 1996',
 						'Identifiant Slack' =>'Abdu Kareem Fall');
 
