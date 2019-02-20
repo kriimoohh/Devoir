@@ -4,7 +4,7 @@ $contact=  array(
 						
 						'Prenom'=>'Abdou Karim',
 					   'Nom'=>'Fall',
-					   'Tel'=>'773168640',
+					   'Tel'=>'+221773168640',
 					   'Email'=>'abdoukfall9@gmail.com',
 					   'N° Carte Etudiant'=>'201708DEE',
 					   'Profession'=>'Etudiant',
@@ -18,7 +18,7 @@ $contact=  array(
 	
 		<head>
 			<meta charset="UTF-8">
-			<title>Identifacation</title>
+			<title>Devoir</title>
 		<style>
 			table,tr,td,th{
 				border: 2px dashed black;
